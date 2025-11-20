@@ -1,0 +1,22 @@
+{
+  "name": "associate_college_backend",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahbazh1/Associate_college_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shahbazh1/Associate_college_backend/issues"
+  },
+  "homepage": "https://github.com/Shahbazh1/Associate_college_backend#readme"
+}
